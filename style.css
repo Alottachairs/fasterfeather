@@ -1,0 +1,11 @@
+body{
+  background-image: url(images/FasterFeatherAlbumCoverart.png);
+  background-size: 100%;
+}
+
+.title{
+  color: wheat;
+  text-align: center;
+  background-color: black;
+  
+}
