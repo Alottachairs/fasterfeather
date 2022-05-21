@@ -3,9 +3,25 @@ body{
   background-size: 100%;
 }
 
+.banner{
+  background-image: url(images/Phyllocrania\ paradoxa.png);
+  text-align: center;
+  color: wheat;
+  margin-top: 0%;
+}
+
+
 .title{
   color: wheat;
   text-align: center;
   background-color: black;
+  margin-top: 0%;
+}
+
+.txtBox{
+  color: red;
+  text-align: center;
+  font-size: 50px;
+  background-color: white;
   
 }
