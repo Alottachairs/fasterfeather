@@ -1,6 +1,7 @@
 body{
   background-image: url(images/FasterFeatherAlbumCoverart.png);
   background-size: 100%;
+  font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .banner{
@@ -10,6 +11,10 @@ body{
   margin-top: 0%;
 }
 
+canvas{
+  background-color: black;  
+  color: white;
+}
 
 .title{
   color: wheat;
@@ -19,9 +24,10 @@ body{
 }
 
 .txtBox{
-  color: red;
+  color: purple;
   text-align: center;
-  font-size: 50px;
+  font-size: 20spx;
+  font-family: monospace;
   background-color: white;
   
 }
