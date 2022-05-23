@@ -1,6 +1,7 @@
 body{
   background-image: url(images/FasterFeatherAlbumCoverart.png);
   background-size: 100%;
+  text-align: center;
   font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
@@ -14,6 +15,15 @@ body{
 canvas{
   background-color: black;  
   color: white;
+}
+
+.button{
+  background-color: blue;
+  color: wheat;
+  border-radius: 15%;
+  box-shadow: 10px;
+  font-style: oblique;
+  align-items: center;
 }
 
 .title{
